@@ -1,0 +1,11 @@
+127.0.0.1	localhost
+127.0.1.1	astra
+10.77.20.110    bars.miac74.ru
+194.0.219.180   vimis.egisz.rosminzdrav.ru
+194.0.219.181   vimis.egisz.rosminzdrav.ru
+194.0.219.182   vimis.egisz.rosminzdrav.ru
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
